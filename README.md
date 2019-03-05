@@ -1,4 +1,2 @@
-# Autoencoder-based Adaptation Test for  
-Outlier Detection on  Data Stream with Concept Drift  
-
-=============================================================
+# PAPER
+## Autoencoder-based Adaptation Test for Oulier Detection on Data Stream with Concept Drift
